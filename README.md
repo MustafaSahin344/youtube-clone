@@ -1,17 +1,40 @@
-# Kütüphaneler 
+# 🎬 YouTube Clone (React)
 
-- react
-- axios
-- tailwindcss
-- react-router-dom
-- react-icons
+Modern ve responsive bir YouTube Clone uygulaması.  
+Kullanıcılar video arayabilir, video detaylarını inceleyebilir ve ilgili videoları görüntüleyebilir.
 
-# Enviroment Variables
+---
+# 🎬 YouTube Clone
 
-- Ortam değişkenleri, projenizde kullanmanız gereken ama herkesle paylaşmak istmeyeceğimiz ve githuba gönderilmesi engelliyeceiğimiz değişeknlerdir 
-- Proje yeniden yayınlamada bu değerleri değiştirebiliriz
-- ( api key, veritabanı url,admin variables,project variables)
+![Preview](./screenshots/home.png)
 
-- proje içerisnde '.env' isimli dosyası aç
+Modern ve responsive bir YouTube Clone uygulaması.
 
-- VITE_DEĞİŞKEN_İSMİ=değişkenin değeri
+---
+
+## 🚀 Özellikler
+
+- 🔍 Video arama
+- 🎥 Video detay sayfası
+- 📺 Video oynatma (React Player)
+- 🔗 İlgili videolar
+- 📱 Responsive tasarım
+
+---
+
+## 🛠️ Teknolojiler
+
+- React
+- Vite
+- TailwindCSS
+- Axios
+- React Router
+- RapidAPI
+
+---
+
+## 📸 Ekran Görüntüleri
+
+![Ana Sayfa](./screenshots/home.png)
+
+---
